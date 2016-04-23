@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: com.blazzify
+OpenIDE-Module-Localizing-Bundle: com/blazzify/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
